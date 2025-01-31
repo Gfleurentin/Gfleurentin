@@ -1,4 +1,4 @@
-<img src="https://github.com/Gfleurentin/Gfleurentin/blob/main/5af375d6e10216db6bf2f0eceb9d8d4ef9f48686b4d27f4186de84d393da2522.jpeg?raw=true" alt="Background" style="width: 100%; height: auto;">
+<img src="https://github.com/Gfleurentin/Gfleurentin/blob/main/0d421615ef6b0d77dd45778409bfbd7b1517642263910cb667d9e9f6bf311ffb.png?raw=true/?raw=true" alt="Background" style="width: 100%; height: auto;">
 
 # Welcome to My Profile!
 Here is some text over a decorative background.
