@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gfleurentin?tab=repositories](https://github.com/Gfleurentin?tab=repositories)
 
-- 💬 Ask me about **Compsci topics:**
+- 💬 Ask me about **Compsci topics: JavaScript, React, Data Structures & Algorithms**
 
 - 📫 How to reach me **gaetan.fleurentin@gmail.com**
 
