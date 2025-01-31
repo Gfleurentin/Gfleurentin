@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfleurentin&label=Profile%20views&color=0e75b6&style=flat" alt="gfleurentin" /> </p>
 
-<img src="https://github.com/Gfleurentin/Gfleurentin/blob/main/hacker%20.gif?raw=true?raw=true/?raw=true" alt="Background" style="width: 100%; height: auto;">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfleurentin" alt="gfleurentin" /></a> </p>
+<img src="https://github.com/Gfleurentin/Gfleurentin/blob/main/hacker%20.gif?raw=true?raw=true/?raw=true" alt="Background" style="width: 100%; height: auto;">
 
 - 🔭 I’m currently working on [LambdaVision](https://github.com/oslabs-beta/LambdaVision)
 
