@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaetan Fleurentin</h1>
 <h3 align="center">A passionate software engineer from Haiti 👨🏾‍💻🇭🇹</h3>
 
-<img src="https://github.com/Gfleurentin/Gfleurentin/blob/main/hacker%20.gif?raw=true?raw=true/?raw=true" alt="Background" style="width: 100%; height: auto;">(https://github.com/Gfleurentin/Gfleurentin/blob/main/Hacker.gif?raw=true)
+<img src="https://github.com/Gfleurentin/Gfleurentin/blob/main/hacker%20.gif?raw=true?raw=true/?raw=true" alt="Background" style="width: 100%; height: auto;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfleurentin&label=Profile%20views&color=0e75b6&style=flat" alt="gfleurentin" /> </p>
 
