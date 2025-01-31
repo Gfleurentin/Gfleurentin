@@ -1,3 +1,7 @@
+<img src="https://your-image-url.com" alt="Background" style="width: 100%; height: auto;">
+
+# Welcome to My Profile!
+Here is some text over a decorative background.
 <h1 align="center">Hi 👋, I'm Gaetan Fleurentin</h1>
 <h3 align="center">A passionate software engineer from Haiti 👨🏾‍💻🇭🇹</h3>
 
@@ -32,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gfleurentin&show_icons=true&locale=en" alt="gfleurentin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gfleurentin&" alt="gfleurentin" /></p>
+
