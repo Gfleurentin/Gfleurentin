@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaetan Fleurentin</h1>
 <h3 align="center">A passionate software engineer from Haiti 👨🏾‍💻🇭🇹</h3>
 
-
+<img src="https://github.com/Gfleurentin/Gfleurentin/blob/main/Hacker-Guy.gif?raw=true" alt="Background" style="width: 100%; height: auto;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfleurentin&label=Profile%20views&color=0e75b6&style=flat" alt="gfleurentin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfleurentin" alt="gfleurentin" /></a> </p>
