@@ -1,4 +1,4 @@
-<img src="https://github.com/Gfleurentin/Gfleurentin/blob/main/hacker%20.gif?raw=true?raw=true/?raw=true"(https://github.com/Gfleurentin/Gfleurentin/blob/main/Chill-Guy%20.jpg?raw=true)" alt="Background" style="width: 100%; height: auto;">
+<img src="https://github.com/Gfleurentin/Gfleurentin/blob/main/Chill-Guy%20.jpg?raw=true" alt="Background" style="width: 100%; height: auto;">
 
 <h1 align="center">Hi 👋, I'm Gaetan Fleurentin</h1>
 <h3 align="center">A passionate software engineer from Haiti 👨🏾‍💻🇭🇹</h3>
